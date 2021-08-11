@@ -1,6 +1,7 @@
 public class Main {
 
 	public static void main(String[] args) {
+		// visual studio codeからのgithub動作確認
 		// コメントのテスト
 		// タイトルとバージョン番号
 		String title = "あーるぴーじー";// 全角7文字にしないとレイアウトが崩れる
