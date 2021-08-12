@@ -3,7 +3,7 @@ public class Main {
 	public static void main(String[] args) {
 		// タイトルとバージョン番号
 		String title = "あーるぴーじー";// 全角7文字にしないとレイアウトが崩れる
-		String ver_number = "０．０．４";// カウントアップは最大９．９．９の各桁一桁にしないとレイアウトが(以下略
+		String ver_number = "０．０．５";// カウントアップは最大９．９．９の各桁一桁にしないとレイアウトが(以下略
 
 		Hero h = new Hero();
 		h.hp = 90;
